@@ -27,7 +27,7 @@ on dynamic community detection.</p>
 <p align="left">
 <a href="./Code/DynamicBeliefPropagation/DBP_AG.py">Dynamic Belief Propagation</a>.</p>
 <p align="left">
-<a href="./Code/DynamicSpectralClustering/dsbm_temporal_spatial_dog3_finalAG.m">Dynamic Nonbacktracking Spectral Clustering</a>.</p>
+<a href="./Code/DynamicSpectralClustering/Fig3_spectral_run_me.m">Dynamic Nonbacktracking Spectral Clustering</a>.</p>
 
 
 ### How to cite this work:
