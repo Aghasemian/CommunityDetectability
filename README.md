@@ -10,7 +10,7 @@
 <p align="justify">This page is a companion for the paper
 
 > <b>Amir Ghasemian</b>, Pan Zhang, Aaron Clauset, and Cristopher Moore, and Leto Peel
-> <br><b><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.031005" target="_blank">Detectability thresholds and optimal algorithms for community structure in dynamic networks</a>, Phys. Rev. X 6, 031005 (2016). </b>
+> <br><b><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.031005" target="_blank">Detectability thresholds and optimal algorithms for community structure in dynamic networks</a>, <i>Phys. Rev. X</i> 6, 031005 (2016). </b>
 
 on dynamic community detection.</p>
 
