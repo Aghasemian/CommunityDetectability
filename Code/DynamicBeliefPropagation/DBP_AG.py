@@ -13,7 +13,7 @@
 %% in backward direction from N-1 to 1. Finally in last phase we have updates totally in forward, 
 %% backward direction with 200 iterations. 
 %% ****************************************************************************************************
-@author: Amir Ghasemian (please don't distribute)
+@author: Amir Ghasemian
 """
 from __future__ import division
 import numpy as np

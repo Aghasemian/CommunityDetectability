@@ -8,7 +8,7 @@ function [accuracy,ovl,nmi_spectral,eigs_1st_2nd,stab]=dsbm_temporal_spatial_dog
 %% Authors: Amir Ghasemian, Pan Zhang, Aaron Clauset, Cristopher Moore, Leto Peel
 %% Copyright (C) 2014 Amir Ghasemian, Pan Zhang
 %% ****************************************************************************************************
-%%@author: Amir Ghasemian, Pan Zhang (please don't distribute)
+%%@author: Amir Ghasemian, Pan Zhang 
 
 %% regularized 4nT x 4nT form
 fournT=4*n*T;
