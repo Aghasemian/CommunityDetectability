@@ -1,4 +1,14 @@
-# Community Detectability
+<div style="display: flex; flex-direction: column;">
+    <div style="display: flex; justify-content: space-between;">
+        <div>
+            <h1 style="margin: 0;">Community Detectability</h1>
+        </div>
+        <div>
+            <p>Two algorithms for community detection in dynamic networks.</p>
+        </div>
+    </div>
+    <img src="Images/Image_v0.5_with_networks.png" alt="Figure" width="250" height="300" style="align-self: flex-end;">
+</div>
 
 <p align="justify">This page is a companion for the paper
 
@@ -11,7 +21,7 @@ on dynamic community detection.</p>
 <p align="justify">The detection of communities within a dynamic network is a common means for obtaining a coarse-grained view of a complex system and for investigating its underlying processes. While a number of methods have been proposed in the machine learning and physics literature, we lack a theoretical analysis of their strengths and weaknesses, or of the ultimate limits on when communities can be detected. In this project, we study the fundamental limits of detecting community structure in dynamic networks. Specifically, we analyze the limits of detectability for a dynamic stochastic block model where nodes change their community memberships over time, but where edges are generated independently at each time step. Using the cavity method, we derive a precise detectability threshold as a function of the rate of change and the strength of the communities. Below this sharp threshold, we claim that no efficient algorithm can identify the communities better than chance. We then give two algorithms that are optimal in the sense that they succeed all the way down to this threshold. The first uses belief propagation, which gives asymptotically optimal accuracy, and the second is a fast spectral clustering algorithm, based on linearizing the belief propagation equations. These results (see Fig. below) extend our understanding of the limits of community detection in an important direction, and introduce new mathematical tools for similar extensions to networks with other types of auxiliary information.</p>
 
 <p align="center">
-<img src ="./Images/Fig_overlap_epsilon_eta_hres_v1.jpg" width=400><br>
+<img src ="./Images/Fig_overlap_epsilon_eta_hres_v1.jpg" width=550><br>
 <b>The overlap for (<em>top</em>) belief propagation and (<em>bottom</em>) our spectral algorithm. Please refer to the paper, Fig. 3 for more details.</b>
 </p>
 
