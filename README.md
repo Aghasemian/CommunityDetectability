@@ -24,7 +24,7 @@ on dynamic community detection.</p>
 
 
 ### How to cite this work:
-<p>If you use this code or data in your research, please cite it as follows:</p>
+<p>If you use this code in your research, please cite it as follows:</p>
 <pre>
 @article{ghasemian2016detectability,
   title = {Detectability thresholds and optimal algorithms for community structure in dynamic networks},
