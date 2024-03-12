@@ -3,11 +3,8 @@
         <div>
             <h1 style="margin: 0;">Community Detectability</h1>
         </div>
-        <div>
-            <p>Two algorithms for community detection in dynamic networks.</p>
-        </div>
     </div>
-    <img src="Images/Image_v0.5_with_networks.png" alt="Figure" width="250" height="300" style="align-self: flex-end;">
+    <img src="Images/Image_v0.5_with_networks.png" alt="Figure" width="250" height="250" style="align-self: flex-end;">
 </div>
 
 <p align="justify">This page is a companion for the paper
